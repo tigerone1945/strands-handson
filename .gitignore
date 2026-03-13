@@ -1,0 +1,13 @@
+.env
+.claude
+
+# Python関連
+__pycache__
+
+# Streamlit関連
+.streamlit
+
+# Bedrock AgentCore関連
+.bedrock_agentcore.yaml
+.dockerignore
+Dockerfile
